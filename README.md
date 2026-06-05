@@ -4,6 +4,15 @@
 
 A collection of machine learning examples and reference implementations for computer vision.
 
+## Getting Started
+
+1. Click an "Open in Colab" button.
+2. Open the notebook in Google Colab.
+3. (Option) Select Runtime → Change runtime type → GPU.
+4. Run all cells.
+5. Upload your own image if required.
+
+
 ## [YOLO (You Only Look Once)](https://github.com/ultralytics/ultralytics)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) Classification](https://colab.research.google.com/github/mastnk/cv-samples/blob/main/yolo/yolo_classification.ipynb)

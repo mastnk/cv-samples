@@ -4,6 +4,15 @@
 
 コンピュータビジョンのための機械学習サンプルコードおよびリファレンス実装集
 
+## はじめに
+
+1. 「Open in Colab」ボタンをクリックします。
+2. Google Colabでノートブックを開きます。
+3. (オプション)「ランタイム」→「ランタイムのタイプを変更」→「GPU」を選択します。
+4. 「すべてのセルを実行」を選択します。
+5. 必要に応じて画像をアップロードします。
+
+
 ## [YOLO (You Only Look Once)](https://github.com/ultralytics/ultralytics)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) Classification](https://colab.research.google.com/github/mastnk/cv-samples/blob/main/yolo/yolo_classification_JP.ipynb)
